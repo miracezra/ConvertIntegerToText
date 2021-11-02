@@ -1,0 +1,7 @@
+C:\Users\muhammed.ergenc\Desktop\Fbu_Software_notes\.Net Framework_Projects\Applications\convertToText\bin\Debug\convertToText.exe.config
+C:\Users\muhammed.ergenc\Desktop\Fbu_Software_notes\.Net Framework_Projects\Applications\convertToText\bin\Debug\convertToText.exe
+C:\Users\muhammed.ergenc\Desktop\Fbu_Software_notes\.Net Framework_Projects\Applications\convertToText\bin\Debug\convertToText.pdb
+C:\Users\muhammed.ergenc\Desktop\Fbu_Software_notes\.Net Framework_Projects\Applications\convertToText\obj\Debug\convertToText.csproj.AssemblyReference.cache
+C:\Users\muhammed.ergenc\Desktop\Fbu_Software_notes\.Net Framework_Projects\Applications\convertToText\obj\Debug\convertToText.csproj.CoreCompileInputs.cache
+C:\Users\muhammed.ergenc\Desktop\Fbu_Software_notes\.Net Framework_Projects\Applications\convertToText\obj\Debug\convertToText.exe
+C:\Users\muhammed.ergenc\Desktop\Fbu_Software_notes\.Net Framework_Projects\Applications\convertToText\obj\Debug\convertToText.pdb
